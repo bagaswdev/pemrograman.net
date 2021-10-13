@@ -1,0 +1,16 @@
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\bin\Debug\net5.0\Modul 1 - Bagasw.exe
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\bin\Debug\net5.0\Modul 1 - Bagasw.deps.json
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\bin\Debug\net5.0\Modul 1 - Bagasw.runtimeconfig.json
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\bin\Debug\net5.0\Modul 1 - Bagasw.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\bin\Debug\net5.0\Modul 1 - Bagasw.dll
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\bin\Debug\net5.0\ref\Modul 1 - Bagasw.dll
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\bin\Debug\net5.0\Modul 1 - Bagasw.pdb
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\obj\Debug\net5.0\Modul 1 - Bagasw.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\obj\Debug\net5.0\Modul 1 - Bagasw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\obj\Debug\net5.0\Modul 1 - Bagasw.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\obj\Debug\net5.0\Modul 1 - Bagasw.AssemblyInfo.cs
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\obj\Debug\net5.0\Modul 1 - Bagasw.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\obj\Debug\net5.0\Modul 1 - Bagasw.dll
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\obj\Debug\net5.0\ref\Modul 1 - Bagasw.dll
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\obj\Debug\net5.0\Modul 1 - Bagasw.pdb
+C:\Users\ASUS\Documents\SEMENTARA\A_KULIAH\A_SEMESTER\Semester 7\Pemrog .NET\Resmi\Modul 1 - Bagasw\obj\Debug\net5.0\Modul 1 - Bagasw.genruntimeconfig.cache
